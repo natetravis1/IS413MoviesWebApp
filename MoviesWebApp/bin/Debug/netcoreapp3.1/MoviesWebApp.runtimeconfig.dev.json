@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\natet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\natet\\.nuget\\packages"
+    ]
+  }
+}
